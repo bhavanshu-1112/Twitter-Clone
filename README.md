@@ -8,6 +8,6 @@
  it is used to show the content frm the webapp
  we use  : Pug ```
  
- Install node_modules using ```np. install express```
- Start the project with  ``` npm run dev ```
+ Install node_modules using ## npm install express
+ Start the project with  ## npm run dev 
  
